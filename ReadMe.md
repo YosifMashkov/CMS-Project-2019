@@ -1,4 +1,4 @@
-# Net IT Web dev. - CMS Oriject
+# Net IT Web dev. - CMS Project
 
 ## DataBase setup
 ### `user` - User table
